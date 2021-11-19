@@ -18,6 +18,10 @@
     background-color: #9b59b6;
 }
 
+.bg-color-contact {
+    background-color: #fff;
+}
+
 .ui-menu-color-home {
     background-color: #e67e22;
 }
@@ -334,4 +338,10 @@ footer {
 
 .history-items {
     margin-bottom: 30px;
+}
+
+/* ---------------------------------------Contact Form */
+
+.contact-heading {
+    font-family: "Exo", sans-serif;
 }
